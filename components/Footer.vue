@@ -44,7 +44,7 @@
       <div class="container mx-auto px-6 text-center">
         <hr class="mt-10 mb-6 dark:border-gray-600" />
         <div class="text-slate-700">
-          &copy; 2025 SMK NEGRI 4 TASIKMALAYA <br />
+          &copy; 2025 SMK NEGERI 4 TASIKMALAYA <br />
           by Dita Nur Sabila
         </div>
       </div>
