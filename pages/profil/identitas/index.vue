@@ -9,7 +9,7 @@
       <div class="space-y-4">
         <div class="bg-sky-300 backdrop-blur-sm rounded-lg p-3 hover:bg-white/30 transition-all duration-300">
           <p class="text-white/70 text-sm">Nama Sekolah</p>
-          <p class="text-white font-medium">SMK Negri 4 Tasikmalaya</p>
+          <p class="text-white font-medium">SMK Negeri 4 Tasikmalaya</p>
         </div>
 
         <div class="bg-sky-300 backdrop-blur-sm rounded-lg p-3 hover:bg-white/30 transition-all duration-300">
