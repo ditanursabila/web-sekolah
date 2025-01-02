@@ -16,11 +16,7 @@
 
             <article class="prose prose-lg max-w-none dark:prose-invert mb-12">
               <p class="text-gray-700 dark:text-gray-300">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis omnis cum aut possimus illum reprehenderit doloribus minus non labore accusantium magnam nam, laboriosam necessitatibus! Praesentium sit ipsam eos inventore
-                repudiandae. Dolore impedit omnis aspernatur beatae maxime hic molestiae laboriosam dolorum, minus porro quis eius eos at, quo vel quas, debitis voluptatum animi. Porro autem architecto quis fuga at quaerat excepturi. Rerum ut nihil
-                eveniet suscipit modi fugit molestiae, sequi distinctio, dolor eum ullam natus amet velit excepturi recusandae dolores quos temporibus nisi molestias repellendus numquam. Provident tenetur nobis suscipit enim! Beatae repudiandae
-                veritatis quo ullam totam. Accusamus adipisci perferendis nam neque quidem recusandae minus inventore, dolorem quisquam, ex corporis cupiditate sunt quis eius fuga ab molestiae iusto. Et, optio non. Numquam, qui non illo est
-                voluptatibus, necessitatibus vitae assumenda accusamus mollitia inventore facilis soluta nesciunt neque eveniet quo maxime. Ipsum quae exercitationem facere autem rerum laborum ut iste, itaque magni.
+                {{ news.ket }}
               </p>
             </article>
           </div>
