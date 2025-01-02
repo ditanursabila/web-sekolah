@@ -5,7 +5,7 @@
       <div class="container mx-auto px-6 grid grid-cols-1 md:grid-cols-10 gap-10">
         <div class="col-span-1 md:col-span-4">
           <h5 class="text-slate-700 font-semibold">TENTANG KAMI</h5>
-          <p class="my-4 block sm:w-10/12 text-slate-500">SMK Negri 4 Tasikmalaya merupakan salah satu Lembaga Pendidikan Menengah Kejuruan di Kota Tasikmalaya, Jawa Barat.</p>
+          <p class="my-4 block sm:w-10/12 text-slate-500">SMK Negeri 4 Tasikmalaya merupakan salah satu Lembaga Pendidikan Menengah Kejuruan di Kota Tasikmalaya, Jawa Barat.</p>
         </div>
 
         <div class="col-span-1 md:col-span-6">
