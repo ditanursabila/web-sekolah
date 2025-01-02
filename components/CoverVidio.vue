@@ -2,7 +2,7 @@
   <div class="relative w-full h-screen overflow-hidden">
     <div class="absolute inset-0">
       <video class="w-full h-full object-cover pointer-events-none" autoplay loop muted playsinline>
-        <source src="~/assets/video/vid.mp4" type="video/mp4" />
+        <source src="~/assets/vidio/vid.mp4" type="video/mp4" />
       </video>
     </div>
 
