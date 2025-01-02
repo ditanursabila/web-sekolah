@@ -10,7 +10,7 @@
       <div class="flex items-center justify-center h-full">
         <div class="text-white text-center px-4">
           <h1 class="font-bold text-2xl md:text-3xl lg:text-4xl mb-2">SELAMAT DATANG</h1>
-          <h2 class="font-semibold text-lg md:text-xl lg:text-2xl">Di Website SMK Negri 4 Tasikmalaya</h2>
+          <h2 class="font-semibold text-lg md:text-xl lg:text-2xl">Di Website SMK Negeri 4 Tasikmalaya</h2>
         </div>
       </div>
       <Sosmed />
